@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/Kazakhstan-m.gif" width="120" alt="Kazakhstan Flag">
+<img src="./Kazakhstan-m.gif" width="140" alt="Kazakhstan Flag">
 
 # Hi, I'm Aibek 👋
 
