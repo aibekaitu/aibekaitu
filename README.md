@@ -6,12 +6,12 @@
 
 ### Backend Developer | Astana IT University Student
 
-<p>
+<p align="center">
   <a href="https://t.me/kzhaa12">
-    <img src="https://img.shields.io/badge/Telegram-@kzhaa12-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/@kzhaa12-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-@YOUR_INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="https://instagram.com/aibongoi">
+    <img src="https://img.shields.io/badge/@aibongoi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
 
