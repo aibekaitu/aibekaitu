@@ -86,16 +86,16 @@ I'm a student at **Astana IT University** developing my skills in **Backend Deve
 <div align="center">
 
 <a href="https://t.me/kzhaa12">
-  <img src="https://img.shields.io/badge/Telegram-@kzhaa12-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+  <img src="https://img.shields.io/badge/@kzhaa12-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM">
-  <img src="https://img.shields.io/badge/Instagram-@YOUR_INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://instagram.com/aibongoi">
+  <img src="https://img.shields.io/badge/@aibongoi-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 <br><br>
 
-📧 **[aibek.baimakhan@mail.ru](mailto:aibek.baimakhan@mail.ru)**
+📧 **aibek.baimakhan@mail.ru**
 
 </div>
 
