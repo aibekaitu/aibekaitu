@@ -67,19 +67,6 @@ I'm a student at **Astana IT University** developing my skills in **Backend Deve
 
 > Become a strong **Backend Developer**, gain practical experience and contribute to real-world projects.
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aibekaitu&show_icons=true&theme=github_dark&hide_border=true" alt="Aibek's GitHub Stats">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aibekaitu&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages">
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
