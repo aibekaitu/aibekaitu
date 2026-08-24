@@ -17,7 +17,6 @@
 
 </div>
 
----
 
 ## 👨‍💻 About Me
 
@@ -30,7 +29,6 @@ I'm a student at **Astana IT University** developing my skills in **Backend Deve
 * 📚 Improving my **Algorithms & Data Structures** knowledge
 * 🚀 Looking for opportunities to gain real-world development experience
 
----
 
 ## 🛠️ Tech Stack
 
@@ -50,7 +48,6 @@ I'm a student at **Astana IT University** developing my skills in **Backend Deve
 
 </div>
 
----
 
 ## 📚 Currently Learning
 
@@ -61,7 +58,7 @@ I'm a student at **Astana IT University** developing my skills in **Backend Deve
 ⚙️ Backend         █████████░░░░░░░
 ```
 
----
+
 
 ## 🎯 Current Goal
 
@@ -86,7 +83,7 @@ I'm a student at **Astana IT University** developing my skills in **Backend Deve
 
 </div>
 
----
+
 
 <div align="center">
 
