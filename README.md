@@ -53,9 +53,11 @@ I'm a student at **Astana IT University** developing my skills in **Backend Deve
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/FastAPI-Learning-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/REST_API-Learning-005571?style=for-the-badge">
-<img src="https://img.shields.io/badge/PostgreSQL-Learning-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://skillicons.dev/icons?i=python,postgresql,java" alt="Currently Learning">
+
+<br><br>
+
+**Python • PostgreSQL • Java • Backend Development**
 
 </div>
 
